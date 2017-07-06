@@ -9,3 +9,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-tysongern.cfapps.io
   services:
   - tracker-backlog-database
+  - tracker-service-registry
